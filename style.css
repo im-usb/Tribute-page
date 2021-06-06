@@ -3,6 +3,10 @@
     background-color: rgb(138, 138, 138);
 }
 
+#timeline{
+    list-type-style:none;
+}
+
 #timeline a{
     text-decoration: none;
 }
