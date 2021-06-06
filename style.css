@@ -29,10 +29,6 @@
     color: white;
 }
 
-#timeline{
-    list-style-type: none;
-}
-
-#timeline a{
+a{
     text-decoration: none;
 }
