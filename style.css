@@ -3,13 +3,6 @@
     background-color: rgb(138, 138, 138);
 }
 
-#timeline{
-    list-style-type:none;
-}
-
-#timeline a{
-    text-decoration: none;
-}
 .nav{
     list-style-type: none;
     margin:0;
@@ -36,3 +29,10 @@
     color: white;
 }
 
+#timeline{
+    list-style-type: none;
+}
+
+#timeline a{
+    text-decoration: none;
+}
